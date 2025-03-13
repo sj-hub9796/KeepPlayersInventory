@@ -1,0 +1,11 @@
+name: KeepPlayersInventory
+version: '1.0.0'
+main: net.sjhub.kpi.KPIMain
+api-version: '1.16'
+authors: [ sjhub ]
+website: https://discord.com/users/1025725101620068373
+commands:
+  kpi:
+    description: kpi main command
+    usage: /kpi reload
+    permission: sjhub.kpi.command
